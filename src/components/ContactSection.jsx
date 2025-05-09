@@ -71,7 +71,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 dark:text-white">Call Us</h3>
-                    <p className="text-indigo-600 dark:text-indigo-400">+1 (555) 123-4567</p>
+                    <p className="text-indigo-600 dark:text-indigo-400">+91 89288 92486</p>
                   </div>
                 </div>
               </div>
